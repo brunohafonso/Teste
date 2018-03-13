@@ -15,7 +15,7 @@
           },
           "name": "abro o aplicativo",
           "result": {
-            "duration": 0.022058725357055664,
+            "duration": 0.021558046340942383,
             "status": "passed"
           },
           "step_type": "given"
@@ -29,7 +29,7 @@
           },
           "name": "Clico em Novidades e clico em voltar",
           "result": {
-            "duration": 3.4985334873199463,
+            "duration": 3.496756076812744,
             "status": "passed"
           },
           "step_type": "when"
@@ -43,7 +43,7 @@
           },
           "name": "volto para a pagina inicial",
           "result": {
-            "duration": 0.502838134765625,
+            "duration": 0.6723513603210449,
             "status": "passed"
           },
           "step_type": "then"
