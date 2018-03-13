@@ -1,0 +1,62 @@
+[
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features\\teste.feature:3",
+      "name": "Op\u00e7\u00e3o de Voltar",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\teste.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\application_steps.py:390"
+          },
+          "name": "abro o aplicativo",
+          "result": {
+            "duration": 0.024056673049926758,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\teste.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\application_steps.py:394"
+          },
+          "name": "Clico em Novidades e clico em voltar",
+          "result": {
+            "duration": 3.711452007293701,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\teste.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\application_steps.py:60"
+          },
+          "name": "volto para a pagina inicial",
+          "result": {
+            "duration": 0.5603640079498291,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\teste.feature:1",
+  "name": "Novidades",
+  "status": "passed",
+  "tags": []
+}
+]
