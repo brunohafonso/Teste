@@ -4,7 +4,7 @@
     {
       "keyword": "Scenario",
       "location": "features\\teste.feature:3",
-      "name": "Op\u00e7\u00e3o de Voltar",
+      "name": "Opcao de Voltar",
       "steps": [
         {
           "keyword": "Given",
@@ -15,7 +15,7 @@
           },
           "name": "abro o aplicativo",
           "result": {
-            "duration": 0.024056673049926758,
+            "duration": 1.2399659156799316,
             "status": "passed"
           },
           "step_type": "given"
@@ -29,7 +29,7 @@
           },
           "name": "Clico em Novidades e clico em voltar",
           "result": {
-            "duration": 3.711452007293701,
+            "duration": 3.3472330570220947,
             "status": "passed"
           },
           "step_type": "when"
@@ -43,7 +43,7 @@
           },
           "name": "volto para a pagina inicial",
           "result": {
-            "duration": 0.5603640079498291,
+            "duration": 0.719519853591919,
             "status": "passed"
           },
           "step_type": "then"
